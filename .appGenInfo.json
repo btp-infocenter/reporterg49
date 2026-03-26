@@ -1,0 +1,28 @@
+{
+  "generationParameters": {
+    "generationDate": "Fri Feb 06 2026 13:19:26 GMT+0000 (Coordinated Universal Time)",
+    "generatorPlatform": "SAP Business Application Studio",
+    "serviceType": "SAP System (ABAP On-Premise)",
+    "metadataFilename": "",
+    "serviceUrl": "https://my418296.s4hana.cloud.sap/sap/opu/odata4/sap/zsb_reporterg49/srvd/sap/zui_rpt_rg49_rep/0001/",
+    "appName": "reporterg49",
+    "appTitle": "Reporte RG49",
+    "appDescription": "An SAP Fiori application.",
+    "appNamespace": "",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.136.12",
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.20.2",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "RG49Report"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
