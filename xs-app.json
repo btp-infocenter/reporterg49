@@ -5,7 +5,7 @@
     {
       "source": "^/sap/(.*)$",
       "target": "/sap/$1",
-      "destination": "CASATUA_PF1_PRD",
+      "destination": "INFOCENTER_C92_100_CUSTO",
       "authenticationType": "xsuaa",
       "csrfProtection": false
     },
