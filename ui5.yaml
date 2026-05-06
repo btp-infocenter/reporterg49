@@ -15,11 +15,12 @@ server:
             - /resources
             - /test-resources
           url: https://ui5.sap.com
+          version: 1.140.0
         backend:
           - authenticationType: reentranceTicket # SAML support for vscode
             path: /sap
             url: https://my418296.s4hana.cloud.sap
-            destination: CASATUA_MXW_TEST
+            destination: CASATUA_NSP100_CUSTO
     - name: fiori-tools-appreload
       afterMiddleware: compression
       configuration:

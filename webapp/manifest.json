@@ -55,7 +55,7 @@
   "sap.ui5": {
     "flexEnabled": true,
     "dependencies": {
-      "minUI5Version": "1.136.12",
+      "minUI5Version": "1.140.0",
       "libs": {
         "sap.m": {},
         "sap.ui.core": {},
@@ -123,7 +123,7 @@
                   "tableSettings": {
                     "type": "TreeTable",
                     "hierarchyQualifier": "ZI_RPT_RG49_HRCHY",
-                    "selectionMode": "Single",
+                    "selectionMode": "None",
                     "selectAll": false,
                     "enableDelete": false
                     
