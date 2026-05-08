@@ -5,7 +5,7 @@
     {
       "source": "^/sap/(.*)$",
       "target": "/sap/$1",
-      "destination": "CASATUA_PF1_PRD",
+      "destination": "CASATUA_MXW_TEST",
       "authenticationType": "xsuaa",
       "csrfProtection": false
     },

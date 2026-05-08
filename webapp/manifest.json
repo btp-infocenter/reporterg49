@@ -133,6 +133,11 @@
                       "press": "reporterg49.ext.PdfExport.exportarPdf",
                       "text": "Exportar PDF",
                       "requiresSelection": false
+                    },
+                    "exportExcel": {
+                      "press": "reporterg49.ext.ExcelExport.exportarExcel",
+                      "text": "Exportar Excel",
+                      "requiresSelection": false
                     }
                   }
                 }
