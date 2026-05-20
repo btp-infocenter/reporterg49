@@ -15,6 +15,7 @@ server:
             - /resources
             - /test-resources
           url: https://ui5.sap.com
+          version: 1.144.0
         backend:
           - authenticationType: reentranceTicket # SAML support for vscode
             path: /sap
