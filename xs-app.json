@@ -5,7 +5,7 @@
     {
       "source": "^/sap/(.*)$",
       "target": "/sap/$1",
-      "destination": "INFOCENTER_C92_100_CUSTO",
+      "destination": "AGROBAY_PO4_100_CUSTO",
       "authenticationType": "xsuaa",
       "csrfProtection": false
     },
